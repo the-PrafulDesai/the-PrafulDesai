@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="the-PrafulDesai/img/">
+    <img src="the-PrafulDesai/img/cover.png">
   </picture><br>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
