@@ -3,7 +3,9 @@
 <h1 align="center">Hello there👋, I'm Praful Desai </h1>
 
 <h3 align="center">Web Developer with the passion for UI/UX Design</h3>
-<img align="right"alt="coding"width="400"src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
+ <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 
 - 🔭 I’m currently working on **Portfolio Webdesign and Developing**
 
@@ -16,6 +18,8 @@
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, FIGMA, OpenCV**
 
 - 📫 How to reach me **the.prafuldesai@gmail.com**
+
+- ⚡ Fun fact: I can have heated arguments with myself about the best font and code syntax, but ultimately find the perfect balance between "Helvetica Neue" and "if-else" statements.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,5 +53,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can have heated arguments with myself about the best font and code syntax, but ultimately find the perfect balance between "Helvetica Neue" and "if-else" statements.
 -->
