@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/the-praful-desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-praful-desai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/the-praful-desai" target="https://www.linkedin.com/in/the-praful-desai/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-praful-desai" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/praful-desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="praful-desai" height="30" width="40" /></a>
 <a href="https://instagram.com/_.praful._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.praful._" height="30" width="40" /></a>
 <a href="https://dribbble.com/praful01032002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="praful01032002" height="30" width="40" /></a>
