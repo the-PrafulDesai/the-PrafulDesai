@@ -1,4 +1,4 @@
-![LinkedIn cover - 1](https://github.com/the-PrafulDesai/the-PrafulDesai/assets/108045971/a6c7395c-8428-441e-8a82-76232e41c44e)
+![LinkedIn cover - 1](https://github.com/the-PrafulDesai/the-PrafulDesai/assets/108045971/02dfa103-b544-41c4-8346-50840e8f46de)
 
 ### Hi there 👋
 
