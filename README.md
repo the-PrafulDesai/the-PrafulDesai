@@ -2,6 +2,7 @@
 
 <h1 align="center">Hello there👋, I'm Praful Desai </h1>
 
+<h3 align="center">Web Developer with the passion for UI/UX Design</h3>
 <!--
 **the-PrafulDesai/the-PrafulDesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
