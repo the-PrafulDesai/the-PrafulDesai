@@ -3,6 +3,12 @@
 <h1 align="center">Hello there👋, I'm Praful Desai </h1>
 
 <h3 align="center">Web Developer with the passion for UI/UX Design</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ronakva54706783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronakva54706783" height="30" width="40" /></a>
+<a href="https://instagram.com/ronakvala_5614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronakvala_5614" height="30" width="40" /></a>
+</p>
 <!--
 **the-PrafulDesai/the-PrafulDesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
