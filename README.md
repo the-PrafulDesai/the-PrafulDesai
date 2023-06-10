@@ -4,7 +4,7 @@
 
 <h3 align="center">Web Developer with the passion for UI/UX Design</h3>
 
- <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+ <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*C-cPP9D2MIyeexAT.gif">
 
 
 - 🔭 I’m currently working on **Portfolio Webdesign and Developing**
