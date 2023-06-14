@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/the-PrafulDesai](https://github.com/the-PrafulDesai)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, FIGMA, OpenCV**
+- 💬 Ask me about **C++, Python, HTML, CSS, JAVASCRIPT, FIGMA, OpenCV**
 
 - 📫 How to reach me **the.prafuldesai@gmail.com**
 
