@@ -39,8 +39,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=the-prafuldesai&show_icons=true&locale=en" alt="the-prafuldesai" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-prafuldesai&" alt="the-prafuldesai" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-prafuldesai&" alt="the-prafuldesai" /></p> -->
 
+
+[![theprafuldesai's GitHub | Stats](https://stats.quine.sh/theprafuldesai/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=theprafuldesai)
 <!--
 **the-PrafulDesai/the-PrafulDesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
