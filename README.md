@@ -1,4 +1,4 @@
-![LinkedIn cover - 1](https://github.com/the-PrafulDesai/the-PrafulDesai/assets/108045971/02dfa103-b544-41c4-8346-50840e8f46de)
+![LinkedIn cover edited](https://github.com/the-PrafulDesai/the-PrafulDesai/assets/108045971/d6a1bcd8-8cbe-4c85-8b5f-0307b46970e9)
 
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Praful Desai </h1>
 
